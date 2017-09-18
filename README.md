@@ -1,4 +1,4 @@
-# IsOnlineOverPowere
+# IsOnlineOverPowered
 We have built a new IsOnline website testing system that shows now Whois and make better tests! 
 
 # FUTURE FEATURES
@@ -12,7 +12,7 @@ include, file_get_contents,
 # HOW TO INSTALL
 This version has a anti-copy system. If you clone this script you will not able to use.
 TO GET THE LICENSE KEY CONTACT ME ON TELEGRAM AT @ParlaconDavideBot
-REMEMBER: 1x License Key is valid for 1 Server
+REMEMBER: 1x License Key is valid for 1x Server for 2x months
 
 # TRY IT YOURSELF! 
 TEST IT ON OUR WEBSITE: http://isonline.ramondettidavide.com/?a=1&v=overpowered&oldr=no
