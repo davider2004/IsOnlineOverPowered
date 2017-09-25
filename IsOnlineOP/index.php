@@ -56,7 +56,6 @@ if($_POST['submit']){
   $link = $websiteProtocol.".//".$websiteURL;
   
     if(getCheck()){
-	  continue;
   }else{
 	  exit();
   }
