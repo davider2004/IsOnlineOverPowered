@@ -61,7 +61,7 @@ if($_POST['submit']){
 	  exit();
   }
   
-    echo "<h1>IsOnlineOP v1 - Testing...</h1>"
+    echo "<h1>IsOnlineOP v1 - Testing...</h1>";
   echo "<p>We are testing the website <b>". $websiteURL ."</b>... Please wait for a while...";
   echo "<img src=img/loading.gif>";
   
