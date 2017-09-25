@@ -162,7 +162,7 @@ if ($_SESSION['testfin'] == "true"){
 	
 	echo "<h1>IsOnlineOP - Test Result</h1>";
 	echo "<p>Here are the results for the test of <b>". $_SESSION['websiteURL'] ."</b>";
-	echo "<br>"
+	echo "<br>";
 	echo "<h6>Test results</h6>";
 	echo "<p>FSocket: <b>". $messages[$fsocket] ."</b></p>";
 	echo "<p>CURL: <b>". $messages[$curl] ."</b></p>";
@@ -172,7 +172,7 @@ if ($_SESSION['testfin'] == "true"){
 	echo "<h6>Whois</h6>";
 	whois($_SESSION['websiteURL']);
 	echo "(<a href=http://who.is/whois/". $_SESSION['websiteURL'] ." target=_blank>Full whois</a>)";
-	echo "<br>"
+	echo "<br>";
 	echo "<h2>YOUR WEBSITE IS ". $messages[$status] ."</h2>";
 	echo "<br>";
 	echo "<script src=js/printfriendly.js></script>";
